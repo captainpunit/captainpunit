@@ -10,7 +10,7 @@ I'm a software developer focused on frontend and mobile application development,
 
 - 🎓 B.Sc. in Information Technology (2022–2025)
 - 💻 Focused on **Frontend Development** and **Mobile App Development**
-- 🛠️ Experience with **React.js, React Native, Expo, Flutter, JavaScript, HTML, and CSS**
+- 🛠️ Experience with **React.js, React Native, Expo, JavaScript, HTML, and CSS**
 - 📱 I enjoy turning designs into responsive, functional interfaces for web and mobile
 - 🌱 Currently improving my skills in UI/UX, application performance, and deployment
 - 📍 Based in India
@@ -23,7 +23,6 @@ I'm a software developer focused on frontend and mobile application development,
 **Programming Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -40,7 +39,6 @@ I'm a software developer focused on frontend and mobile application development,
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![APK](https://img.shields.io/badge/APK_Generation-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Camera](https://img.shields.io/badge/Camera_Integration-555555?style=for-the-badge)
@@ -121,18 +119,35 @@ A React Native mobile application project focused on interface development and a
 
 ---
 
-### 🎯 EMS Flutter Application
-A mobile application interface recreated and migrated using Flutter.
+### 🎯 EMS Mobile Application
+A React Native mobile application interface recreated and migrated for an enterprise management system (EMS).
 
 **Main Contributions**
-- Set up the Flutter project structure
+- Set up the mobile application project structure
 - Created login and signup interfaces
 - Recreated existing application screens
 - Improved mobile responsiveness
-- Developed reusable Flutter widgets
+- Developed reusable React Native components
 - Tested the application on Android devices
 
-**Technologies:** Flutter, Dart
+**Technologies:** React Native, TypeScript, Android
+
+🔗 Repository: `[Add repository link here]`
+
+---
+
+### 🌊 DRMS Project — SDRP (Surat District Relief Package)
+A disaster relief management application built for Surat District's flood relief program, enabling citizens to file relief claims and officials to review and track submissions.
+
+**Main Features**
+- Mobile number and OTP-based login
+- Citizen claim form with document/photo upload, GPS location capture, and review flow
+- Field data capture dashboard for photo and GPS location uploads
+- Collector review dashboard with list and map views of submissions
+- Multilingual UI (English, Hindi, and Gujarati)
+- Local session persistence
+
+**Technologies:** React Native, Expo, JavaScript
 
 🔗 Repository: `[Add repository link here]`
 
@@ -178,7 +193,6 @@ A web and mobile application concept where users can upload photos and request i
 
 - Advanced React.js
 - React Native
-- Flutter
 - TypeScript
 - UI/UX Design
 - Application Deployment
